@@ -1,5 +1,7 @@
 ## UNNC-IDL-UCC
 
+The University of Nottingham Ningbo China - Innovative Design Lab - User-Centric Computing Group
+
 ### About Us
 
   We are a small group with the aim to introduce advanced design ideas into practical computing hardwares/softwares. 
