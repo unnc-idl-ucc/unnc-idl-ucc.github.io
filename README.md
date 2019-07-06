@@ -1,6 +1,12 @@
-## Innovative Design Lab, The University of Nottingham Ningbo China
+## About Us
 
-Innovation Design Lab at The University of Nottingham Ningbo China.
+- User-Centric Computing Group
+
+  We are a small group as a part of Innovative Design Lab, with the aim to introduce advanced design ideas into practical computing hardwares/softwares.
+
+- Innovative Design Lab
+
+- The University of Nottingham Ningbo China
 
 You can use the [editor on GitHub](https://github.com/unnc-idl-ucc/unnc-idl-ucc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
