@@ -1,17 +1,36 @@
-## UNNC-IDL-UCC
+# Mundana - Free Bootstrap HTML Blogging Template
 
-The <u><b>U</b></u>niversity of <u><b>N</b></u>ottingham <u><b>N</b></u>ingbo <u><b>C</b></u>hina <br> <u><b>I</b></u>nnovative <u><b>D</b></u>esign <u><b>L</b></u>ab <br> <u><b>U</b></u>ser-<u><b>C</b></u>entric <u><b>C</b></u>omputing Group
+Free HTML Bootstrap Blogging Template by [Sal](https://www.wowthemes.net).
 
-### About Us
+[Live Demo](https://wowthemesnet.github.io/template-mundana-bootstrap-html/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/template-mundana-bootstrap-html/archive/master.zip)
 
-  We are a small group with the aim to introduce advanced design ideas into practical computing hardwares/softwares. User-Centric Computing Group, as a part of Innovative Design Lab in The University of Nottingham Ningbo China, is directed by [Prof. Xu Sun](https://www.nottingham.edu.cn/en/science-engineering/staffprofile/xu-sun-.aspx).
-  
-  We are always seeking for highly-motivated and independent students from all majors, who are interested in cutting-edge research. If you are not satisfied with your daily study and plan to experience interdisciplinary research. Please [contact Prof. Xu Sun](mailto:xu.sun@nottingham.edu.cn) for more details. 
+[![screenshot](assets/img/screenshot-mundana.png)](https://wowthemesnet.github.io/template-mundana-bootstrap-html/)
 
-### News
+## Getting Started
 
+* [Theme Details](https://www.wowthemes.net/mundana-free-html-bootstrap-template/)
+* [Documentation](https://wowthemesnet.github.io/template-mundana-bootstrap-html/docs.html).
 
-### Current Projects
+## Built With
 
+* [Bootstrap](https://github.com/twbs/bootstrap)
+* [Gulp](https://gulpjs.com/)
+* [SASS](https://sass-lang.com/)
 
-### Student Resources
+## Copyright
+
+Copyright (C) 2019 WowThemes.net.
+
+Designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
+
+<a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+## Contribute
+
+Let's make this even better!
+
+- [Clone the repo](https://github.com/wowthemesnet/template-mundana-bootstrap-html.git).
+- Create a branch off of master and give it a meaningful name (e.g. my-new-feature).
+- Open a pull request on GitHub and describe the feature or fix.
+
+Thank you for your support!
